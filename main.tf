@@ -12,11 +12,6 @@ variable "tomcat_ports" {
   default = [22, 8080]
 }
 
-variable "key_name" {
-  description = "AWS Key Pair Name for SSH access"
-  type        = string
-  default     = "<key-pair-name>" # Change this to your actual key pair name
-}
 
 resource "aws_security_group" "jenkinsSG" {
   name        = "jenkinsSG"
