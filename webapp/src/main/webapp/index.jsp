@@ -13,11 +13,15 @@
     <br>
 
     <label for="Location"><b>Enter location</b></label>
-    <input type="text" placeholder="Enter your Location" name="location" id="location" required>
+    <input type="text" placeholder="Enter your Location" name="Location" id="Location" required>
+    <br>
+
+    <label for="Team"><b>Enter Team</b></label>
+    <input type="text" placeholder="Enter your favourite football team" name="Team" id="Team" required>
     <br>
     
     <label for="Mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter moible number" name="Mobile" id="Mobile" required>
     <br>
 
     <label for="Email"><b>Enter Email</b></label>
