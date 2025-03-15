@@ -11,6 +11,10 @@
     <label for="Job"><b>Enter Job</b></label>
     <input type="text" placeholder="Enter your Job" name="Job" id="Job" required>
     <br>
+
+    <label for="location"><b>Enter location</b></label>
+    <input type="text" placeholder="Enter your Location" name="location" id="location" required>
+    <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
@@ -35,7 +39,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thank you, Happy Learning </h1>
 
   
 </form>
