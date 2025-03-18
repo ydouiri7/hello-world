@@ -20,7 +20,7 @@
     <input type="text" placeholder="Enter your favourite football team" name="Team" id="Team" required>
     <br>
     
-    <label for="Mobile"><b>Enter mobile</b></label>
+    <label for="Mobile"><b>Enter Mobile</b></label>
     <input type="text" placeholder="Enter Mobile number" name="Mobile" id="Mobile" required>
     <br>
 
