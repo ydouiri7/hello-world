@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter your Job" name="Job" id="Job" required>
     <br>
 
-    <label for="Location"><b>Enter location</b></label>
+    <label for="Location"><b>Enter Location</b></label>
     <input type="text" placeholder="Enter your Location" name="Location" id="Location" required>
     <br>
 
