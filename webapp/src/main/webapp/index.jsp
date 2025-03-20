@@ -21,7 +21,7 @@
     <br>
 
     <label for="Team"><b>Enter Team</b></label>
-    <input type="text" placeholder="Enter your favourite football team" name="Team" id="Team" required>
+    <input type="text" placeholder="Enter your team" name="Team" id="Team" required>
     <br>
     
     <label for="Mobile"><b>Enter Mobile</b></label>
